@@ -3,11 +3,35 @@
 		"packageName":"Love",
     	"packageId":1,
     	"packageIconURL": "",
-    	"stickerFrameItems":{
+    	"stickerFrameItems":
+		[
+    	{
     		"itemId":1000,
     		"itemURL":"",
     		"itemStatus":1
+    	},
+    	{
+    		"itemId":1001,
+    		"itemURL":"",
+    		"itemStatus":1
     	}
+    ]
+	},{
+		"packageName":"Happiness",
+    	"packageId":2,
+    	"packageIconURL": "",
+    	"stickerFrameItems":
+		[
+    	{
+    		"itemId":2000,
+    		"itemURL":"",
+    		"itemStatus":1
+    	},
+    	{
+    		"itemId":2001,
+    		"itemURL":"",
+    		"itemStatus":1
+    	}
+    ]
 	}
-
 ]
