@@ -2,17 +2,17 @@
 	{
 		"packageName":"Love",
     	"packageId":1,
-    	"packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_2.webp",
+    	"packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/2055208-ff5722.svg",
     	"stickerFrameItems":
 		[
     	{
     		"itemId":1000,
-    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/just_love.webp",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/2258271.svg",
     		"itemStatus":1
     	},
     	{
     		"itemId":1001,
-    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_1.webp",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/2402086-ff5722.svg",
     		"itemStatus":1
     	}
     ]
