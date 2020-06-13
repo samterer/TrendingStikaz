@@ -2,34 +2,34 @@
 	{
 		"packageName":"Love",
     	"packageId":1,
-    	"packageIconURL": "",
+    	"packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_2.webp",
     	"stickerFrameItems":
 		[
     	{
     		"itemId":1000,
-    		"itemURL":"",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/just_love.webp",
     		"itemStatus":1
     	},
     	{
     		"itemId":1001,
-    		"itemURL":"",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_1.webp",
     		"itemStatus":1
     	}
     ]
 	},{
 		"packageName":"Happiness",
     	"packageId":2,
-    	"packageIconURL": "",
+    	"packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_2.webp",
     	"stickerFrameItems":
 		[
     	{
     		"itemId":2000,
-    		"itemURL":"",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/just_love.webp",
     		"itemStatus":1
     	},
     	{
     		"itemId":2001,
-    		"itemURL":"",
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_1.webp",
     		"itemStatus":1
     	}
     ]
