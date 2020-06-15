@@ -54,7 +54,57 @@
     		"itemId":3002,
     		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/playing-with-kids.png",
     		"itemStatus":1
-    	}
+    	},
+	{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-3.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-4.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-5.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-6.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-7.png",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-7.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-8.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-9.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-10.webp",
+	"itemStatus":1
+},
+{
+	"itemId":3002,
+	"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/fathersday/fathers-day-11.webp",
+	"itemStatus":1
+}
     ]
 	}
 ]
