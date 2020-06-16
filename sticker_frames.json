@@ -14,6 +14,26 @@
     		"itemId":1001,
     		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love_heart_2.webp",
     		"itemStatus":1
+    	},
+    	{
+    		"itemId":1002,
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-1.webp",
+    		"itemStatus":1
+    	},
+    	{
+    		"itemId":1003,
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-2.webp",
+    		"itemStatus":1
+    	},
+    	{
+    		"itemId":1004,
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-3.webp",
+    		"itemStatus":1
+    	},
+    	{
+    		"itemId":1004,
+    		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-4.webp",
+    		"itemStatus":1
     	}
     ]
 	},
