@@ -29,12 +29,31 @@
     		"itemId":1004,
     		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-3.webp",
     		"itemStatus":1
-    	},
-    	{
-    		"itemId":1004,
+    	},{
+    		"itemId":1005,
     		"itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/love-couple-4.webp",
     		"itemStatus":1
-    	}
+    	},{
+            "itemId":1006,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/stickers/love-1.webp",
+            "itemStatus":1
+        },{
+            "itemId":1007,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/stickers/love-2.webp",
+            "itemStatus":1
+        },{
+            "itemId":1008,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/stickers/love-3.webp",
+            "itemStatus":1
+        },{
+            "itemId":1009,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/stickers/love-4.webp",
+            "itemStatus":1
+        },{
+            "itemId":1010,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/stickers/love-5.webp",
+            "itemStatus":1
+        }
     ]
 	},
 	{
