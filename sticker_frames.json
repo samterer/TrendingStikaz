@@ -190,5 +190,32 @@
 	"itemStatus":1
 }
     ]
-	}
+	},{
+        "packageName":"Emojis",
+        "packageId":4,
+        "packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/emojis/emoji-1.webp",
+        "stickerFrameItems":
+        [
+        {
+            "itemId":4000,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/emojis/emoji-1.webp",
+            "itemStatus":1
+        },
+        {
+            "itemId":4001,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/emojis/emoji-2.webp",
+            "itemStatus":1
+        },
+        {
+            "itemId":4002,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/emojis/emoji-3.webp",
+            "itemStatus":1
+        },
+        {
+            "itemId":4003,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/emojis/emoji-1.webp",
+            "itemStatus":1
+        }
+    ]
+}
 ]
