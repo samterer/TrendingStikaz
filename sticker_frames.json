@@ -306,18 +306,18 @@
     ]
 },{
         "packageName":"Sports",
-        "packageId":5,
+        "packageId":6,
         "packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/sports/liverpool/liverpool-1.webp",
         "stickerFrameItems":
         [
         {
-            "itemId":5000,
+            "itemId":6000,
             "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/sports/liverpool/liverpool-2.webp",
             "itemStatus":1
         },
         {
-            "itemId":5000,
-            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/flags/madagascar/madagascar-flag-2.webp",
+            "itemId":6000,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/flags/madagascar/madagascar-flag-1.webp",
             "itemStatus":1
         }
     ]
