@@ -287,5 +287,22 @@
             "itemStatus":1
         }
     ]
+},{
+        "packageName":"Flags",
+        "packageId":5,
+        "packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/flags/madagascar/madagascar-flag-0.webp",
+        "stickerFrameItems":
+        [
+        {
+            "itemId":5000,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/flags/madagascar/madagascar-flag-1.webp",
+            "itemStatus":1
+        },
+        {
+            "itemId":5000,
+            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/flags/madagascar/madagascar-flag-2.webp",
+            "itemStatus":1
+        }
+    ]
 }
 ]
