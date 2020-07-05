@@ -1,31 +1,5 @@
 [
 	{
-        "packageName":"4th of July",
-        "packageId":7,
-        "packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/4thjuly/july4.webp",
-        "stickerFrameItems":
-        [
-        {
-            "itemId":7000,
-            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/4thjuly/july1.webp",
-            "itemStatus":1
-        }, {
-            "itemId":7002,
-            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/4thjuly/july2.webp",
-            "itemStatus":1
-        }, {
-            "itemId":7003,
-            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/4thjuly/july3.webp",
-            "itemStatus":1
-        },
-        {
-            "itemId":7004,
-            "itemURL":"https://raw.githubusercontent.com/samterer/TrendingStikaz/master/4thjuly/july4.webp",
-            "itemStatus":1
-        }
-    ]
-},
-	{
 		"packageName":"Love",
     	"packageId":1,
     	"packageIconURL": "https://raw.githubusercontent.com/samterer/TrendingStikaz/master/love/just_love.webp",
